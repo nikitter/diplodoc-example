@@ -1,5 +1,5 @@
 allowHTML: true
-langs: ['en','ru']
+lang: ['en','ru']
 
 resources:
   style:
